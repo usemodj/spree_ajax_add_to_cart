@@ -54,4 +54,6 @@ Be sure to bundle your dependencies and then create a dummy test app for the spe
 
 The current version supports Spree 2.0.0 or above. Older versions of Spree are unlikely to work, so attempt at your own risk.
 
+This extension just an updated version and heavily based on [Trung Lê](https://github.com/joneslee85/spree_ajax_add_to_cart)'s work.
+
 Copyright (c) 2013 Surya Tripathi, released under the New BSD License
